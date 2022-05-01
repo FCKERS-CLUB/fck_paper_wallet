@@ -1,2 +1,2 @@
-# fck_paper_wallet
+# fckbankscoin_paper_wallet
 paper wallet
